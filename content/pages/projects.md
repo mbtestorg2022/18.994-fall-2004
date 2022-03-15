@@ -31,7 +31,7 @@ Hoffman/Meeks's discovery, for each _g_\>0, of a complete embedded minimal surfa
 
 ### When is a Minimal Surface Area Minimising?
 
-Schwarz's Theorem states that if _M_ is a minimal surface in _R3_ spanning a curve _C_ such that the image of _M_ under its Gauss map contains a hemisphere of _S2_, then _M_ is not area minimizing for _C_. A proof of this can be found in Oprea's book. Conversely, under some reasonable assumptions, if the area of the Gauss image has area <2π then the surface is area minimising \[1\]. Investigate area minimisation for various regions of familiar minimal surfaces. The catenoid is a straightforward example, and is treated by Oprea, so this is the place to start. Oprea and \[1\] give different proofs of Schwarz's Theorem; you should understand at least one of them, and you may want to compare them and give an outline of the argument of \[1\].
+Schwarz's Theorem states that if _M_ is a minimal surface in _R3_ spanning a curve _C_ such that the image of _M_ under its Gauss map contains a hemisphere of _S2_, then _M_ is not area minimizing for _C_. A proof of this can be found in Oprea's book. Conversely, under some reasonable assumptions, if the area of the Gauss image has area \<2π then the surface is area minimising \[1\]. Investigate area minimisation for various regions of familiar minimal surfaces. The catenoid is a straightforward example, and is treated by Oprea, so this is the place to start. Oprea and \[1\] give different proofs of Schwarz's Theorem; you should understand at least one of them, and you may want to compare them and give an outline of the argument of \[1\].
 
 ### Gauss-Bonnet Theorem
 
