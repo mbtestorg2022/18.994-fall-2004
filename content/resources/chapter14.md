@@ -6,6 +6,7 @@ description: 'Chapter 14 of the Lecture Notes for the course. The lecture notes 
   as a single file.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-994-seminar-in-geometry-fall-2004/ebebd7339aefa32fa8e9af6698120147_chapter14.pdf
 file_type: application/pdf
+parent_uid: 40d97fd5-340f-0f53-9ede-a59370279bb7
 resourcetype: Document
 title: chapter14.pdf
 uid: ebebd733-9aef-a32f-a8e9-af6698120147

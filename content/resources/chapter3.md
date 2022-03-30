@@ -6,6 +6,7 @@ description: 'Chapter 3 of the Lecture Notes for the course. The lecture notes w
   as a single file.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-994-seminar-in-geometry-fall-2004/6c93b1e7d09e8d661b1d212ed67f0d0c_chapter3.pdf
 file_type: application/pdf
+parent_uid: 40d97fd5-340f-0f53-9ede-a59370279bb7
 resourcetype: Document
 title: chapter3.pdf
 uid: 6c93b1e7-d09e-8d66-1b1d-212ed67f0d0c

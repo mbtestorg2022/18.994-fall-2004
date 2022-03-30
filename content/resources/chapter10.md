@@ -6,6 +6,7 @@ description: 'Chapter 10 of the Lecture Notes for the course. The lecture notes 
   as a single file.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-994-seminar-in-geometry-fall-2004/096a36e895d1d34c7e8f9f661090ece5_chapter10.pdf
 file_type: application/pdf
+parent_uid: 40d97fd5-340f-0f53-9ede-a59370279bb7
 resourcetype: Document
 title: chapter10.pdf
 uid: 096a36e8-95d1-d34c-7e8f-9f661090ece5

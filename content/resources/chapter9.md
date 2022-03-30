@@ -6,6 +6,7 @@ description: 'Chapter 9 of the Lecture Notes for the course. The lecture notes w
   as a single file.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-994-seminar-in-geometry-fall-2004/0789a8996fb05799941f1f59a72531b9_chapter9.pdf
 file_type: application/pdf
+parent_uid: 40d97fd5-340f-0f53-9ede-a59370279bb7
 resourcetype: Document
 title: chapter9.pdf
 uid: 0789a899-6fb0-5799-941f-1f59a72531b9

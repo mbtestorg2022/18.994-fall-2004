@@ -6,6 +6,7 @@ description: 'Chapter 19 of the Lecture Notes for the course. The lecture notes 
   as a single file.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-994-seminar-in-geometry-fall-2004/b24cb20786f79412d897afb455d19d17_chapter19.pdf
 file_type: application/pdf
+parent_uid: 40d97fd5-340f-0f53-9ede-a59370279bb7
 resourcetype: Document
 title: chapter19.pdf
 uid: b24cb207-86f7-9412-d897-afb455d19d17
